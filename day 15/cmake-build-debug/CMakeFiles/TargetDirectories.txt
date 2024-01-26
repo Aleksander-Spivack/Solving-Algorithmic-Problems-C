@@ -1,0 +1,3 @@
+C:/Users/Alexsandr/CLionProjects/day 15/cmake-build-debug/CMakeFiles/day_15.dir
+C:/Users/Alexsandr/CLionProjects/day 15/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Alexsandr/CLionProjects/day 15/cmake-build-debug/CMakeFiles/rebuild_cache.dir
